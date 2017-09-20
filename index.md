@@ -8,6 +8,7 @@
 ## Ayuda a tus vecinos.
 
  - [Ubicacion de Áreas Críticas](https://www.google.com/maps/d/u/0/viewer?mid=1PwJrCIjz5PNfKAFrY-EX-iEkWH8&ll=19.388519856520006%2C-99.14531885783691&z=12)
+ - [Localizador de personas de Google](https://google.org/personfinder/2017-puebla-mexico-earthquake/)
 
 ## Contribuye a este documento.
 
