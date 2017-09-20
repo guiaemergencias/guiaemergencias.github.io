@@ -37,6 +37,10 @@ Información Útil
 
 ## 911 es el Número de emergencia **A nivel nacional**
 
+## Sobre alertas falsas de megaterremotos.
+
+No se pueden predecir los sismos, solo podemos estar preparados para reaccionar adecuadamente. [Hagan caso omiso a toda cadena que promueva la desinformacion con rumores de un megaterremoto anunciado a la ONU.](http://cadenasfalsas.com/2017/09/alerta-sobre-megaterremoto-en-mexico-en-las-proximas-48-horas/)
+
 ## Numeros de emergencia para la CDMX
 
 - 5658-1111 Locatel
