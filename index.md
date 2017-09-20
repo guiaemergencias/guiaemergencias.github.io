@@ -19,6 +19,7 @@ Información Útil
 
 - [Comparte tu WIFI](/wifi)
 - [Movistar proveera de servicios gratuitos de voz, SMS y Whatsapp a todos sus usuarios de las zonas afectadas.](https://twitter.com/MovistarMX/status/910311132077936640)
+- [Telcel ofrece llamadas, sms y datos gratis en TODO MEXICO ante la emergencia por el sismo](https://twitter.com/Telcel/status/910339232647995392)
  
 ## Donaciones
 
