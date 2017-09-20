@@ -1,6 +1,9 @@
 # Guia Emergencias
 
-## Proveer accesso a internet a tus vecinos
+## Accesso a Internet.
+
+- [Comparte tu WIFI](/wifi)
+- [Movistar proveera de servicios gratuitos de voz, SMS y Whatsapp a todos sus usuarios de las zonas afectadas.](https://twitter.com/MovistarMX/status/910311132077936640)
 
 ## Ayuda a tus vecinos.
 
