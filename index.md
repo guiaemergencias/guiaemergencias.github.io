@@ -47,14 +47,14 @@ No se pueden predecir los sismos, solo podemos estar preparados para reaccionar 
 
 ### CDMX
 
-- Protección Civil: (55) 5683-2222 / (55) 5277-4177
-- Sistema de aguas: (55) 5654-3210
-- Fugas: (55) 5654-3210
-- Locatel: (55) 5658-1111
-- Bomberos: [911](tel:911) / (55) 5768-3800 / (55) 5768-2532
-- Cruz Roja: [911](tel:911) / [065](tel:065) / (55) 5557-5757
+- Protección Civil:  [(55) 5683-2222](tel:+52-55-5683-2222)/ [(55) 5277-4177](tel:+52-55-5277-4177)
+- Sistema de aguas: [(55) 5654-3210](tel:+52-55-5654-3210)
+- Fugas: [(55) 5654-3210](tel:+52-55-5654-3210)
+- Locatel: [(55) 5658-1111](tel:+52-55-5658-1111)
+- Bomberos: [911](tel:911) / [(55) 5768-3800](tel:+52-55-5768-3800) / [(55) 5768-2532](tel:+52-55-5768-2532)
+- Cruz Roja: [911](tel:911) / [065](tel:065) / [(55) 5557-5757](tel:+52-55-5557-5757)
 - Reporte fallas CFE: [071](tel:071)
-- Información IMSS: 01-800-623-2323
+- Información IMSS: [01-800-623-2323](tel:01-800-623-2323)
 
 ### Estado de México
 
