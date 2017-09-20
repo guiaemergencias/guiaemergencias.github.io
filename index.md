@@ -1,5 +1,7 @@
 # Guia Emergencias
 
+[Si deseas ayudar a damnificados y con donativos, visita comoayudar.mx](http://comoayudar.mx)
+
 Información Útil
 
   - Si tienes cuenta en Facebook, recuerda reportar mediante [Safety Check, tu estado actual, esto le avisara a familiares y amigos](https://www.facebook.com/safetycheck/rabosa-puebla-mexico-earthquake-sep19-2017/about/).
@@ -9,8 +11,6 @@ Información Útil
   - Todas las compañías celulares están permitiendo hacer llamadas de forma gratuita.
   - Las casetas de peaje para entrar/salir de la ciudad serán gratis.
   - Las listas de personas trasladadas a hospitales y a la Cruz Roja se estarán actualizando y sera [publicada por Locatel CDMX](https://twitter.com/locatel_mx)
-
-
   - [Actualmente existen dos mapas que se estan compartiendo en redes
   sociales](http://www.guiaemergencias.com/mapas/)
   - [Existe un Google Sheet mantenida por la comunidad con la informacion de rescatados/extraviados y fallecidos](http://bit.ly/RescatadosMX)
@@ -46,8 +46,7 @@ Información Útil
 - [Dona a la Cruz Roja Mexicana mediante Amazon](https://www.amazon.com.mx/b?ie=UTF8&node=17290014011&pf_rd_p=f0aeab75-03f7-49aa-8b87-a4c78e1f0f04&pf_rd_r=P7WXXWY44CSQQMPKH0PA)
 - [Paypal tiene una pagina de Donacion a la Cruz Roja](https://www.paypal.com/mx/webapps/mpp/donar/institution?name=redCross)
 - [Topos México esta aceptando donaciones mediante transferencia bancaria y Paypal](https://twitter.com/topos/status/908000616575680512)
-
-
+- [comoayudar.mx esta recolectando todas las formas de ayuda para los que no estan en las zonas afectadas](http://comoayudar.mx)
 
 ## Sobre alertas falsas de megaterremotos.
 
@@ -94,6 +93,7 @@ No se pueden predecir los sismos, solo podemos estar preparados para reaccionar 
 - [Cruz Roja Mexicana](https://twitter.com/CruzRoja_MX)
 - [Gob.mx, pagina oficial del Gobierno Federal](https://twitter.com/gobmx)
 - [Gobierno CDMX](https://twitter.com/gobcdmx)
+- [Locatel CDMX](https://twitter.com/locatel_mx)
 
 ## Contribuye a este documento.
 
