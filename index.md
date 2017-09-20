@@ -14,6 +14,7 @@ Información Útil
   - [Actualmente existen dos mapas que se estan compartiendo en redes
   sociales](http://www.guiaemergencias.com/mapas/)
   - [Existe un Google Sheet mantenida por la comunidad con la informacion de rescatados/extraviados y fallecidos](http://bit.ly/RescatadosMX)
+  - [Coordinación y solicitudes de ayuda a edificios dañados en Google Sheet](https://t.co/cBYoo4WwQy)
   
 ## Albergues
 
