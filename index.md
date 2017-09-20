@@ -35,23 +35,26 @@ Información Útil
 - [Paypal tiene una pagina de Donacion a la Cruz Roja](https://www.paypal.com/mx/webapps/mpp/donar/institution?name=redCross)
 - [Topos México esta aceptando donaciones mediante transferencia bancaria y Paypal](https://twitter.com/topos/status/908000616575680512)
 
-## 911 es el Número de emergencia **A nivel nacional**
+
 
 ## Sobre alertas falsas de megaterremotos.
 
 No se pueden predecir los sismos, solo podemos estar preparados para reaccionar adecuadamente. [Hagan caso omiso a toda cadena que promueva la desinformacion con rumores de un megaterremoto anunciado a la ONU.](http://cadenasfalsas.com/2017/09/alerta-sobre-megaterremoto-en-mexico-en-las-proximas-48-horas/)
 
+
+# 911 es el Número de emergencia **A nivel nacional**
 ## Numeros de emergencia
 
 ### CDMX
 
-- 5658-1111 Locatel
-- 5557-5757 Cruz Roja
-- 071 Comisión Federal de Electricidad
-- 56-54-32-10 Sistema de Aguas
-- 065 Cruz Roja
-- 040 Información general:
-- 089 Denuncia Anónima
+- Protección Civil: (55) 5683-2222 / (55) 5277-4177
+- Sistema de aguas: (55) 5654-3210
+- Fugas: (55) 5654-3210
+- Locatel: (55) 5658-1111
+- Bomberos: 911 / (55)5768-3800 / (55)5768-2532
+- Cruz Roja: 911 / 065 / (55)5557-5757
+- Reporte fallas CFE: 071
+- Información IMSS: 01-800-623-2323
 
 ### Estado de México
 
