@@ -14,6 +14,15 @@ Información Útil
 - [Lista de albergues habilitados por el Gobierno de la CDMX](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.cdmx.gob.mx%2Fcomunicacion%2Fnota%2Flistado-de-albergues-cdmx&h=ATOA2fIIP3_6sQocihRg1oyPpHZ7EB05lo92JdoEkgbSgpSZRf84GWBeXrhUgdeg4b1u2k-bvzap4na5e-xDV0Pkf0dyOTe_5vZ1DhA9Hp4_fwY9T9rk7YWvFzq7iWHd5MKSVtEse388iSmSDyQg-DurB0Dt-h-_ZkfH7KPY_4PsZNEuC03z4fHRk5gDEey3J_lcrRvxVwyDMA0fYj6sjpaXxa2fp22kRt2MXT8CX3lZwTM3li9f9o7oM_kJw0XH3ep-WI9ZSH8yGmvVkK763TLCxp172WnsKeW3WEb8)
 - [Los derrumbes (totales y parciales) que se registran en la CDMX](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fviewer%3Fmid%3D13B_gbt3e5RWk_6xQoQ15xxhGOFs%26ll%3D19.410678597303765%252C-99.16616220000003%26z%3D11&h=ATMGEVfN7e6JRRjtF68vdpY2ONgJNUcoEWu6lMoN7aFrUpVeZVncTXrwEh5uMEAygnOEeKFaji7n6w14zPJmAJIgqGEY6Z74W8fXtiEoKcIdY9rBQQ2BgzPhN3zJ6yeX4V51XZxWTW6dj-ZFJ-i-ezOpGGUwKoyb3Oqw9GCOp-QdsYp6wFBtI3PYw2jA2CQ9-SkZKXa4gTw8qtzncrfEy4WzBNofAxxopEssj5mdDP0Dlbd2te8r_VqXT9EI-mNjSaHavad0U4WQhk_sEWQd-WLcAO02UiJtrB19aa7-)
  - [Ubicacion de Áreas Críticas](https://www.google.com/maps/d/u/0/viewer?mid=1PwJrCIjz5PNfKAFrY-EX-iEkWH8&ll=19.388519856520006%2C-99.14531885783691&z=12)
+ 
+ ## Comunicación sin Internet.
+ 
+ Existen dos apps que puedes cargar a tu celular que te permiten mantener comunicacion mediante mensajes instantaneos usando solo conectividad por Bluetooth. Es recomendable cargarlas en el celular, antes de asistir a zonas sin electricidad o señal nula de servicios celulares.
+ 
+ Ambas aplicaciones son gratis y no requiren internet para funcionar.
+ 
+ - Firechat [para iOS](https://itunes.apple.com/app/id719829352?mt=8&&referrer=click%3Dfa8e96a1-ae30-440a-9ff9-b677e32bf27f) / [para Android](https://play.google.com/store/apps/details?id=com.opengarden.firechat)
+ - Bridgefy [para iOS](https://itunes.apple.com/mx/app/bridgefy/id975776347) / [para Android](https://play.google.com/store/apps/details?id=me.bridgefy.main)
 
  ## Accesso a Internet.
 
