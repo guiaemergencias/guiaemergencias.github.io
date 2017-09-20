@@ -24,9 +24,10 @@ Información Útil
 
 - [Dona a la Cruz Roja Mexicana mediante Amazon](https://www.amazon.com.mx/b?ie=UTF8&node=17290014011&pf_rd_p=f0aeab75-03f7-49aa-8b87-a4c78e1f0f04&pf_rd_r=P7WXXWY44CSQQMPKH0PA)
 
+## 911 es el Número de emergencia **A nivel nacional**
+
 ## Numeros de emergencia para la CDMX
 
-- 911 Número de emergencia
 - 5658-1111 Locatel
 - 5557-5757 Cruz Roja
 - 071 Comisión Federal de Electricidad
