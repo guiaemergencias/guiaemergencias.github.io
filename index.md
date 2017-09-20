@@ -2,7 +2,7 @@
 
 Información Útil
 
-- Si tienes cuenta en Facebook, recuerda reportar mediante Safety Check, tu estado actual, esto le avisara a familiares y amigos.
+- Si tienes cuenta en Facebook, recuerda reportar mediante [Safety Check, tu estado actual, esto le avisara a familiares y amigos](https://www.facebook.com/safetycheck/rabosa-puebla-mexico-earthquake-sep19-2017/about/).
 - Los servicios de IMSS, ISSSTE, Seguro Popular y los hospitales Ángeles y ABC están abiertos para toda la población.
 - El metro y el metrobús están brindando servicio gratuito.
 - Todas las compañías celulares están permitiendo hacer llamadas de forma gratuita.
