@@ -47,4 +47,4 @@ Información Útil
 ## Contribuye a este documento.
 
 - Puedes contribuir, agregando o actualizando información que creas pertinente
-  a los esfuerzos de ayuda en el siguiente link de [Github](https://github.com/guiaemergencias/guiaemergencias.github.io)
+  a los esfuerzos de ayuda contactando en [Twitter a @cicloid](https://twitter.com/cicloid) o en el siguiente link de [Github](https://github.com/guiaemergencias/guiaemergencias.github.io)
