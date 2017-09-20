@@ -56,6 +56,7 @@ No se pueden predecir los sismos, solo podemos estar preparados para reaccionar 
 - Reporte fallas CFE: [071](tel:071)
 - Información IMSS: [01-800-623-2323](tel:01-800-623-2323)
 
+
 ### Estado de México
 
 - Emergencias: [066](tel:066)
