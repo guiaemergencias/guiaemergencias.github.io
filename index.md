@@ -14,7 +14,6 @@ Información Útil
 - [Los derrumbes (totales y parciales) que se registran en la CDMX](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fviewer%3Fmid%3D13B_gbt3e5RWk_6xQoQ15xxhGOFs%26ll%3D19.410678597303765%252C-99.16616220000003%26z%3D11&h=ATMGEVfN7e6JRRjtF68vdpY2ONgJNUcoEWu6lMoN7aFrUpVeZVncTXrwEh5uMEAygnOEeKFaji7n6w14zPJmAJIgqGEY6Z74W8fXtiEoKcIdY9rBQQ2BgzPhN3zJ6yeX4V51XZxWTW6dj-ZFJ-i-ezOpGGUwKoyb3Oqw9GCOp-QdsYp6wFBtI3PYw2jA2CQ9-SkZKXa4gTw8qtzncrfEy4WzBNofAxxopEssj5mdDP0Dlbd2te8r_VqXT9EI-mNjSaHavad0U4WQhk_sEWQd-WLcAO02UiJtrB19aa7-)
  - [Ubicacion de Áreas Críticas](https://www.google.com/maps/d/u/0/viewer?mid=1PwJrCIjz5PNfKAFrY-EX-iEkWH8&ll=19.388519856520006%2C-99.14531885783691&z=12)
 
-
  ## Accesso a Internet.
 
 - [Comparte tu WIFI](/wifi)
@@ -35,6 +34,10 @@ Información Útil
 - 065 Cruz Roja
 - 040 Información general:
 - 089 Denuncia Anónima
+
+## Cuentas oficiales
+
+- [Cruz Roja Mexicana](https://twitter.com/CruzRoja_MX) 
 
 ## Contribuye a este documento.
 
