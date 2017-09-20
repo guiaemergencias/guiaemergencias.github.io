@@ -41,7 +41,9 @@ Información Útil
 
 No se pueden predecir los sismos, solo podemos estar preparados para reaccionar adecuadamente. [Hagan caso omiso a toda cadena que promueva la desinformacion con rumores de un megaterremoto anunciado a la ONU.](http://cadenasfalsas.com/2017/09/alerta-sobre-megaterremoto-en-mexico-en-las-proximas-48-horas/)
 
-## Numeros de emergencia para la CDMX
+## Numeros de emergencia
+
+### CDMX
 
 - 5658-1111 Locatel
 - 5557-5757 Cruz Roja
@@ -50,6 +52,26 @@ No se pueden predecir los sismos, solo podemos estar preparados para reaccionar 
 - 065 Cruz Roja
 - 040 Información general:
 - 089 Denuncia Anónima
+
+### Estado de México
+
+- Emergencias: 066
+- Cruz roja: 065
+- Atención del Gobierno del Estado: 01-800 696-9696
+
+### Morelos
+
+- Informes Emergencia en Tultepec: 01800 696-9696
+- Emergencias: 066
+- Seguridad Pública del Estado: (77) 7101-1000
+- Protección Civil: (77) 7100-0515 / (77) 7100-0517
+- Cruz Roja: (77)7315-3505 / (77)7315-3555
+
+### Puebla
+
+- Cruz Roja: (22)213-7700
+- Locatel: (22)211-7800
+- Bomberos: (22)245-8001
 
 ## Cuentas oficiales
 
