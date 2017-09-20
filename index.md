@@ -2,16 +2,17 @@
 
 Información Útil
 
-- Si tienes cuenta en Facebook, recuerda reportar mediante [Safety Check, tu estado actual, esto le avisara a familiares y amigos](https://www.facebook.com/safetycheck/rabosa-puebla-mexico-earthquake-sep19-2017/about/).
-- Los servicios de IMSS, ISSSTE, Seguro Popular y los hospitales Ángeles y ABC están abiertos para toda la población.
-- El metro y el metrobús están brindando servicio gratuito.
-- Todas las compañías celulares están permitiendo hacer llamadas de forma gratuita.
-- Las casetas de peaje para entrar/salir de la ciudad serán gratis.
-- Las listas de personas trasladadas a hospitales y a la Cruz Roja se estarán actualizando en las redes de Locatel CDMX: https://twitter.com/locatel_mx
-- [Google activó el siguiente servicio de búsqueda de personas](https://google.org/personfinder/2017-puebla-mexico-earthquake/)
-- [Lista de albergues habilitados por el Gobierno de la CDMX](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.cdmx.gob.mx%2Fcomunicacion%2Fnota%2Flistado-de-albergues-cdmx&h=ATOA2fIIP3_6sQocihRg1oyPpHZ7EB05lo92JdoEkgbSgpSZRf84GWBeXrhUgdeg4b1u2k-bvzap4na5e-xDV0Pkf0dyOTe_5vZ1DhA9Hp4_fwY9T9rk7YWvFzq7iWHd5MKSVtEse388iSmSDyQg-DurB0Dt-h-_ZkfH7KPY_4PsZNEuC03z4fHRk5gDEey3J_lcrRvxVwyDMA0fYj6sjpaXxa2fp22kRt2MXT8CX3lZwTM3li9f9o7oM_kJw0XH3ep-WI9ZSH8yGmvVkK763TLCxp172WnsKeW3WEb8)
-- [Actualmente existen dos mapas que se estan compartiendo en redes
+  - Si tienes cuenta en Facebook, recuerda reportar mediante [Safety Check, tu estado actual, esto le avisara a familiares y amigos](https://www.facebook.com/safetycheck/rabosa-puebla-mexico-earthquake-sep19-2017/about/).
+  - Los servicios de IMSS, ISSSTE, Seguro Popular y los hospitales Ángeles y ABC están abiertos para toda la población.
+  - El metro y el metrobús están brindando servicio gratuito.
+  - Todas las compañías celulares están permitiendo hacer llamadas de forma gratuita.
+  - Las casetas de peaje para entrar/salir de la ciudad serán gratis.
+  - Las listas de personas trasladadas a hospitales y a la Cruz Roja se estarán actualizando en las redes de Locatel CDMX: https://twitter.com/locatel_mx
+  - [Google activó el siguiente servicio de búsqueda de personas](https://google.org/personfinder/2017-puebla-mexico-earthquake/)
+  - [Lista de albergues habilitados por el Gobierno de la CDMX](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.cdmx.gob.mx%2Fcomunicacion%2Fnota%2Flistado-de-albergues-cdmx&h=ATOA2fIIP3_6sQocihRg1oyPpHZ7EB05lo92JdoEkgbSgpSZRf84GWBeXrhUgdeg4b1u2k-bvzap4na5e-xDV0Pkf0dyOTe_5vZ1DhA9Hp4_fwY9T9rk7YWvFzq7iWHd5MKSVtEse388iSmSDyQg-DurB0Dt-h-_ZkfH7KPY_4PsZNEuC03z4fHRk5gDEey3J_lcrRvxVwyDMA0fYj6sjpaXxa2fp22kRt2MXT8CX3lZwTM3li9f9o7oM_kJw0XH3ep-WI9ZSH8yGmvVkK763TLCxp172WnsKeW3WEb8)
+  - [Actualmente existen dos mapas que se estan compartiendo en redes
   sociales](http://www.guiaemergencias.com/mapas/)
+  - [Airbnb ha activado su servicio de emergencias.](https://www.airbnb.com/welcome/evacuees/terremotoenmexico) Si cuentan con espacios disponibles, esta es una alternativa mas para ofrecer techo a quienes hoy no tienen.
 
 ## Comunicación sin Internet.
 
