@@ -3,12 +3,13 @@
 Información Útil
 
   - Si tienes cuenta en Facebook, recuerda reportar mediante [Safety Check, tu estado actual, esto le avisara a familiares y amigos](https://www.facebook.com/safetycheck/rabosa-puebla-mexico-earthquake-sep19-2017/about/).
+  - [Google activó el siguiente servicio de búsqueda de personas](https://google.org/personfinder/2017-puebla-mexico-earthquake/)
   - Los servicios de IMSS, ISSSTE, Seguro Popular y los hospitales Ángeles y ABC están abiertos para toda la población.
   - El metro y el metrobús están brindando servicio gratuito.
   - Todas las compañías celulares están permitiendo hacer llamadas de forma gratuita.
   - Las casetas de peaje para entrar/salir de la ciudad serán gratis.
-  - Las listas de personas trasladadas a hospitales y a la Cruz Roja se estarán actualizando en las redes de Locatel CDMX: https://twitter.com/locatel_mx
-  - [Google activó el siguiente servicio de búsqueda de personas](https://google.org/personfinder/2017-puebla-mexico-earthquake/)
+  - Las listas de personas trasladadas a hospitales y a la Cruz Roja se estarán actualizando y sera [publicada por Locatel CDMX](https://twitter.com/locatel_mx)
+
 
   - [Actualmente existen dos mapas que se estan compartiendo en redes
   sociales](http://www.guiaemergencias.com/mapas/)
@@ -23,6 +24,14 @@ Información Útil
   - [Los mapas comunitarios tambien muestran albergues en Morelos/Puebla/Tlaxcala ademas de la CDMX
   sociales](http://www.guiaemergencias.com/mapas/)
 
+## Accesso a Internet.
+
+- [Comparte tu WIFI](/wifi)
+- [Movistar proveera de servicios gratuitos de voz, SMS y Whatsapp a todos sus usuarios de las zonas afectadas.](https://twitter.com/MovistarMX/status/910311132077936640)
+- [Telcel ofrece llamadas, sms y datos gratis en TODO MEXICO ante la emergencia por el sismo](https://twitter.com/Telcel/status/910339232647995392)
+- [Telmex esta ofreciendo acceso gratuito a internet mediante todo Hotspot de Infinitum](https://twitter.com/Telmex/status/910305623585300480)
+- [Izzi esta proveyendo acceso a internet en todos sus hotspots, usuario/contraseña izzi/izzi](https://twitter.com/izzi_mx/status/910355447466610693)
+
 ## Comunicación sin Internet.
 
  Existen dos apps que puedes cargar a tu celular que te permiten mantener comunicacion mediante mensajes instantaneos usando solo conectividad por Bluetooth. Es recomendable cargarlas en el celular, antes de asistir a zonas sin electricidad o señal nula de servicios celulares.
@@ -31,13 +40,7 @@ Información Útil
 
  - Firechat [para iOS](https://itunes.apple.com/app/id719829352?mt=8&&referrer=click%3Dfa8e96a1-ae30-440a-9ff9-b677e32bf27f) / [para Android](https://play.google.com/store/apps/details?id=com.opengarden.firechat)
  - Bridgefy [para iOS](https://itunes.apple.com/mx/app/bridgefy/id975776347) / [para Android](https://play.google.com/store/apps/details?id=me.bridgefy.main)
-
-## Accesso a Internet.
-
-- [Comparte tu WIFI](/wifi)
-- [Movistar proveera de servicios gratuitos de voz, SMS y Whatsapp a todos sus usuarios de las zonas afectadas.](https://twitter.com/MovistarMX/status/910311132077936640)
-- [Telcel ofrece llamadas, sms y datos gratis en TODO MEXICO ante la emergencia por el sismo](https://twitter.com/Telcel/status/910339232647995392)
-
+ 
 ## Donaciones
 
 - [Dona a la Cruz Roja Mexicana mediante Amazon](https://www.amazon.com.mx/b?ie=UTF8&node=17290014011&pf_rd_p=f0aeab75-03f7-49aa-8b87-a4c78e1f0f04&pf_rd_r=P7WXXWY44CSQQMPKH0PA)
