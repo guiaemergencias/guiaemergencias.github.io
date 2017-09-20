@@ -51,8 +51,8 @@ No se pueden predecir los sismos, solo podemos estar preparados para reaccionar 
 - Sistema de aguas: (55) 5654-3210
 - Fugas: (55) 5654-3210
 - Locatel: (55) 5658-1111
-- Bomberos: 911 / (55)5768-3800 / (55)5768-2532
-- Cruz Roja: 911 / 065 / (55)5557-5757
+- Bomberos: 911 / (55) 5768-3800 / (55) 5768-2532
+- Cruz Roja: 911 / 065 / (55) 5557-5757
 - Reporte fallas CFE: 071
 - Información IMSS: 01-800-623-2323
 
