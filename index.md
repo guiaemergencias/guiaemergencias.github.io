@@ -23,6 +23,7 @@ Información Útil
 ## Donaciones
 
 - [Dona a la Cruz Roja Mexicana mediante Amazon](https://www.amazon.com.mx/b?ie=UTF8&node=17290014011&pf_rd_p=f0aeab75-03f7-49aa-8b87-a4c78e1f0f04&pf_rd_r=P7WXXWY44CSQQMPKH0PA)
+- [Topos México esta aceptacion donaciones mediante transferencia bancaria y Paypal](https://twitter.com/topos/status/908000616575680512)
 
 ## 911 es el Número de emergencia **A nivel nacional**
 
