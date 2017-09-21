@@ -18,7 +18,7 @@ Simplemente solicita agregar información a @cicloide en Twitter o con el
 hashtag #guiaemergencias, intentaremos verificar y vincular a la fuente de
 información oficial.
 
-### Tengo cuenta de GitHub y se cómo usar Jit
+### Tengo cuenta de GitHub y se cómo usar Git
 
 Simplemente realiza un Fork y envía un Pul Request. Intenta acompañar tu
 información con vínculos a fuentes oficiales o verificadas.
